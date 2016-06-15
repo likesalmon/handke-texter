@@ -1,0 +1,15 @@
+{
+    "phoneNumber": "",
+    "sid": "",
+    "voice": "https://demo.twilio.com/welcome/voice/",
+    "sms": "https://demo.twilio.com/welcome/sms/reply/",
+    "baseUrl": "https://api.twilio.com/2010-04-01",
+    "authToken": "",
+    "username": "admin",
+    "password": "secret",
+    "groups": ["A", "B", "C"],
+    "specialGroups": ["D"],
+    "serverIP": "",
+    "serverURL": "",
+    "welcomeMessage": "Welcome. Please consider going and fucking yourself. Enjoy the show!"
+}
